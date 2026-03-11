@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agbgaming24
 - 👀 I’m interested in learning more about computers
-- 🌱 I’m currently learning python and computer architecture
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning about backend technologies using JavaScrpit
+- 💞️ I’m looking to collaborate on backend/REST API projects
 - 📫 How to reach me:: mail id:aryan2446.pis@gmail.com
 - 😄 Pronouns: he/him
 
