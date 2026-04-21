@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @agbgaming24
-- 👀 I’m interested in learning more about computers
-- 🌱 I’m currently learning about backend technologies using JavaScrpit
-- 💞️ I’m looking to collaborate on backend/REST API projects
-- 📫 How to reach me:: mail id:aryan2446.pis@gmail.com
-- 😄 Pronouns: he/him
+# Hi, I'm Aryan 👋
 
+2nd-year B.Sc. (Hons) Computer Science student at the University of Delhi.
+I'm interested in backend development, competitive programming, and systems programming.
 
-<!---
-agbgaming24/agbgaming24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+
+- 🔨 Building backends with Node.js, Express, and MySQL
+- 🧩 300+ problems solved on LeetCode
+- 📖 Currently studying graph algorithms in C++ and Passport.js authentication
+- 🎯 Interests: Backend Engineering, Competitive Programming, OS/Kernel Development, AI/ML
+
+---
+
+## Tech Stack
+
+- **Languages:** C++, Python, JavaScript, Java
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Databases:** MySQL
+- **Frontend:** React, Vite
+- **Data Science:** NumPy, Pandas, Matplotlib
+- **Tools:** Git, Postman
+
+---
+
+## Projects
+
+**Golf-Connect** — Full-stack golf and charity platform  
+Node.js · Express · MySQL · React · Vite  
+JWT auth, role-based access control, Stableford scoring engine, RESTful API
+
+**Finance Dashboard Backend API** — Personal finance tracking REST API  
+Node.js · Express · MySQL  
+Secure endpoints, data aggregation, modular architecture
+
+**JWT Todo REST API** — Authenticated task management API  
+Node.js · Express · MySQL  
+JWT auth, protected routes, full CRUD
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/aryan2446
+- LeetCode: https://leetcode.com/u/SuperAryan2446/
+
+---
+
+*Open to internship opportunities in backend / full-stack development!*
