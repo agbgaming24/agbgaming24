@@ -1,6 +1,6 @@
 # Hi, I'm Aryan 👋
 
-2nd-year B.Sc. (Hons) Computer Science student at the University of Delhi.
+3rd-year B.Sc. (Hons) Computer Science student at the University of Delhi.
 I'm interested in backend development, competitive programming, and systems programming.
 
 ---
