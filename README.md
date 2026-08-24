@@ -17,7 +17,7 @@ I'm interested in backend development, competitive programming, and systems prog
 ## Tech Stack
 
 - **Languages:** C++, Python, JavaScript, Java
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, FastAPI(Currently learning)
 - **Databases:** MySQL
 - **Frontend:** React, Vite
 - **Data Science:** NumPy, Pandas, Matplotlib
